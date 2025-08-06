@@ -1,2 +1,1 @@
-# apc1-manha
-Algoritmos e Programação de Computadores I
+# Algoritmos e Programação de Computadores I
